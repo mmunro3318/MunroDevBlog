@@ -1,0 +1,26 @@
+/* styles/globals.scss */
+
+body {
+  margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+      background: #f4f4f9;
+        color: #333;
+        }
+
+        a {
+          color: #0070f3;
+            text-decoration: none;
+            }
+
+            a:hover {
+              text-decoration: underline;
+              }
+
+              .container {
+                max-width: 800px;
+                  margin: 2rem auto;
+                    padding: 1rem;
+                      background: white;
+                        border-radius: 8px;
+                          box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+                          }
